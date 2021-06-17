@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/pranshu_dobhal" target="blank"><img src="https://img.shields.io/twitter/follow/pranshu_dobhal?logo=twitter&style=for-the-badge" alt="pranshu_dobhal" /></a> </p>
 
+- 🔭 I’m currently working on [Football360](https://github.com/pranshudobhal/football360/tree/development/)
+
 - 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://pranshudobhal.netlify.app/](https://pranshudobhal.netlify.app/)
@@ -12,6 +14,8 @@
 - 💬 Ask me about **react, express, css, chakra UI**
 
 - 📫 How to reach me **pranshu.dobhal@gmail.com**
+
+- ⚡ Fun fact **I love debugging 😛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
