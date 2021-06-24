@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/pranshu_dobhal" target="blank"><img src="https://img.shields.io/twitter/follow/pranshu_dobhal?logo=twitter&style=for-the-badge" alt="pranshu_dobhal" /></a> </p>
 
-- 🔭 I’m currently working on [Football360](https://github.com/pranshudobhal/football360/tree/development/)
+- 🔭 I’m currently working on [Bubble](https://github.com/pranshudobhal/bubble/tree/development)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Redux** and **TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [https://pranshudobhal.netlify.app/](https://pranshudobhal.netlify.app/)
 
