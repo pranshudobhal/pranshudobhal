@@ -11,11 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://pranshudobhal.netlify.app/](https://pranshudobhal.netlify.app/)
 
-- 💬 Ask me about **react, express, css, chakra UI**
+- 📝 I regularly write articles on [https://pranshudobhal.hashnode.dev/](https://pranshudobhal.hashnode.dev/)
+
+- 💬 Ask me about **React, CSS, Chakra UI, TailwindCSS**
 
 - 📫 How to reach me **pranshu.dobhal@gmail.com**
 
-- ⚡ Fun fact **I love debugging 😛**
+- ⚡ Fun fact **I love debugging and CSS 😛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
