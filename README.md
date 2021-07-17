@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pranshu.dobhal@gmail.com**
 
-- ⚡ Fun fact **I love debugging and CSS 😛**
+- ⚡ Fun fact **I love CSS 😛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
