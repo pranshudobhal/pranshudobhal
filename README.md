@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Last9](https://last9.io/)
 
-- 🌱 I’m currently learning **Typescript** and **Material UI**
+- 🌱 I’m currently learning **GatsbyJS**
 
 - 📝 I regularly write articles on [https://pranshudobhal.hashnode.dev/](https://pranshudobhal.hashnode.dev/)
 
