@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GatsbyJS**
 
-- 📝 I regularly write articles on [https://pranshudobhal.hashnode.dev/](https://pranshudobhal.hashnode.dev/)
+<!-- - 📝 I regularly write articles on [https://pranshudobhal.hashnode.dev/](https://pranshudobhal.hashnode.dev/) -->
 
 - 💬 Ask me about **React, Typescript, CSS, Chakra UI, TailwindCSS**
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/pranshu_dobhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranshu_dobhal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranshudobhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranshudobhal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8393205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8393205" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/8393205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8393205" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
