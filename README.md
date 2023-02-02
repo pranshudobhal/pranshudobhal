@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/pranshu_dobhal" target="blank"><img src="https://img.shields.io/twitter/follow/pranshu_dobhal?logo=twitter&style=for-the-badge" alt="pranshu_dobhal" /></a> </p>
 
-- 🔭 I’m currently working at [Last9](https://last9.io/)
+<!-- - 🔭 I’m currently working at [Last9](https://last9.io/) -->
 
-- 🌱 I’m currently learning **GatsbyJS**
+- 🌱 I’m currently learning **NextJS**
 
 <!-- - 📝 I regularly write articles on [https://pranshudobhal.hashnode.dev/](https://pranshudobhal.hashnode.dev/) -->
 
