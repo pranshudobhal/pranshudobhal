@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pranshu Dobhal</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hey, I'm Pranshu 👋</h1>
+<h3 align="center">A passionate front end developer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshudobhal&label=Profile%20views&color=0e75b6&style=flat" alt="pranshudobhal" /> </p>
 
